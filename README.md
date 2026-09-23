@@ -2,7 +2,9 @@
 
 > An AI-powered personal brand & positioning diagnostic web app built with Google Gemini & Google AI Studio, designed to analyze social media profile assets (Instagram & TikTok), diagnose messaging leaks, and generate high-converting revamps.
 
-https://github.com/user-attachments/assets/caedbcc9-b319-46f7-a1e6-05bcfd2d1a27
+<p align="center">
+ <img width="800" height="514" alt="BrandBusinessAuditEngine-ezgif com-optimize" src="https://github.com/user-attachments/assets/f72c6218-3476-4cd7-bc99-a1550474a2b0" />
+</p>
 
 ---
 
@@ -27,12 +29,3 @@ https://github.com/user-attachments/assets/caedbcc9-b319-46f7-a1e6-05bcfd2d1a27
 * **Frontend:** React, TypeScript, Tailwind CSS, Lucide Icons, jsPDF
 * **Backend / AI:** Node.js, Express, Google Gemini API (Multimodal Vision & Text)
 * **Design System:** Ethereal Dreamscape (Custom CSS Glassmorphism, Pearl Gradients, Baroque Gold Accents)
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/brand-business-audit.git](https://github.com/yourusername/brand-business-audit.git)
-   cd brand-business-audit
